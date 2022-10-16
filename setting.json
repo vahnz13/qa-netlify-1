@@ -25,7 +25,7 @@
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
-      "target":"math-only-math.com",
+      "target":"www.math-only-math.com",
       "element-remove-selector":[
         "#Header"
       ],
