@@ -25,6 +25,10 @@
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
+      "target":"math-only-math.com",
+      "element-remove-selector":[
+        "#Header"
+      ],
       "replace-string":[
         {
           "target":"https://stackoverflow.com",
